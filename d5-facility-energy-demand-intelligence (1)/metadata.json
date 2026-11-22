@@ -1,0 +1,6 @@
+{
+  "name": "D5 Facility Energy Demand Intelligence",
+  "description": "AI-Powered Energy Monitoring, Demand Forecasting & Anomaly Detection for multi-channel low-voltage facility loads and BLE telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
